@@ -4,7 +4,7 @@ Welcome to my **Programming Practices** repository! This repository is dedicated
 
 ## 📝 Overview
 
-This repository contains code examples, solutions, and explanations of fundamental programming concepts, with a focus on:
+This repository contains code examples and solutions, of fundamental programming concepts, with a focus on:
 
 - **Data Structures**: Arrays, Linked Lists, Stacks, Queues, Trees, Graphs, HashMaps, etc.
 - **Algorithms**: Sorting, Searching, Recursion, Dynamic Programming, Greedy Algorithms, Backtracking, etc.
@@ -47,5 +47,6 @@ Some of the resources I use to learn and practice include:
 
 Feel free to reach out if you have any questions, suggestions, or just want to connect!
 
-- **LinkedIn**: [Sunaina Anand](https://www.linkedin.com/in/sunainaanand28)
-- **GitHub**: [Sunaina's Anand](https://github.com/SunainaAnand28)
+-  [LinkedIn](https://www.linkedin.com/in/sunainaanand28)
+-  [LeetCode](https://leetcode.com/_GeekyGlam_)
+-  [X](https://x.com/_GeekyGlam_)
