@@ -20,6 +20,6 @@ function bblSort(arr) {
     console.log(arr);
 }
 
-var arr = [234, 43, 55, 63, 5, 6, 235, 547];
+var arr = [2,6,1,5,7,4,9,99];
 
 bblSort(arr);
